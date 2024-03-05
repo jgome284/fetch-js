@@ -1,0 +1,23 @@
+{
+  "name": "requests",
+  "version": "1.0.0",
+  "description": "http request demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgome284/requests-js.git"
+  },
+  "author": "Jose M. Gomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgome284/requests-js/issues"
+  },
+  "homepage": "https://github.com/jgome284/requests-js#readme",
+  "dependencies": {
+    "encoding": "^0.1.13",
+    "node-fetch": "^2.6.7"
+  }
+}
